@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Connectones</string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="will_send_you_an_otp_on_this_mobile_number">Will send you an OTP on this mobile number</string>
+    <string name="otp_verification">OTP Verification</string>
+    <string name="profile_info">Profile Info</string>
+    <string name="set_name_optional_image">Please set your name and an optional profile image.</string>
+
+</resources>

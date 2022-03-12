@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574729382928",
+    "project_id": "connectones-9cc89",
+    "storage_bucket": "connectones-9cc89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574729382928:android:822538f95dc294dffb2e95",
+        "android_client_info": {
+          "package_name": "com.example.connectones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574729382928-3d7m3jdbhjpdl1kh9conve5hhcemc26u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6budZC5TH9HC_pxWZjx5PIxNWTM0iHs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574729382928-3d7m3jdbhjpdl1kh9conve5hhcemc26u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
